@@ -1,0 +1,4 @@
+#Thu Feb 11 04:49:38 WIB 2021
+base.0=/Users/macbook/AndroidStudioProjects/RameinYukPesan/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
